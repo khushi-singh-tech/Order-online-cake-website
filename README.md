@@ -3,7 +3,7 @@
 A modern online cake shop website built with React.js, HTML, CSS, and JavaScript. Users can browse cakes, view details, and simulate an ordering experience with a clean, responsive UI.
 
  Live Demo
-
+https://order-cake-online.netlify.app/
 
  Features
  Home page showcasing a variety of cakes
